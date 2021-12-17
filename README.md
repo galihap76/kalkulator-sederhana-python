@@ -1,2 +1,2 @@
 # kalkulator-sederhana-python
-Kalkulator pada bahasa pemrograman.
+Membuat program kalkulator sederhana pada bahasa pemrograman python.
